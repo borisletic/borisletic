@@ -8,7 +8,7 @@ Imagine a universe where every line of code writes reality itself...
 - 🔱 **Forks** create parallel universes where different versions of reality coexist
 - 🐛 **Issues** are literal problems in the fabric of spacetime that need solving
 - 🔀 **Pull Requests** are proposals to merge alternate timelines into our reality
-- 💬 **Commits** are permanent changes to the universe's source code
+- ✏️ **Commits** are permanent changes to the universe's source code
 - 🔧 **Merge conflicts** happen when two realities collide and we have to choose which truth survives
 - 📦 **Dependencies** are the fundamental forces holding our universe together
 - 🚀 **CI/CD pipelines** continuously integrate new possibilities into existence
