@@ -5,6 +5,5 @@ Truth < Hype ?<br>
 Truth = Hype ?<br>
 Truth ? Hype ¿<br>
 
-The GitHub Truth Engine! Unreal!<br><br>
+[The GitHub Truth Engine!](https://github.com/borisletic/github-truth-engine)<br><br>
 
-[insert unfinished secret repo here when its unsecreted]
