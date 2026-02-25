@@ -15,4 +15,5 @@ Truth ? Hype ¿<br>
   <em>you committing (hopefully) the truth</em>
 </p>
 
+**Speaking of truth:** Your cloud bill is lying to you. [CloudCost.WTF](https://github.com/borisletic/cloudcost-wtf) exposes the brutal reality. 💸🔥
 
