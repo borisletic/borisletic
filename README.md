@@ -17,3 +17,10 @@ Truth ? Hype ¿<br>
 
 **Speaking of truth:** Your cloud bill is lying to you. [CloudCost.WTF](https://github.com/borisletic/cloudcost-wtf) exposes the brutal reality. 💸🔥
 
+<p align="center">
+  <a href="https://github.com/borisletic/cloudcost-wtf">
+    <img src="https://raw.githubusercontent.com/borisletic/cloudcost-wtf/main/egress-fees.jpg" width="600">
+  </a>
+  <br>
+  <em>Clouds cost</em>
+</p>
